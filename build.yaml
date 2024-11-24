@@ -17,4 +17,4 @@ include:
   - board: willis
     snippet: studio-rpc-usb-uart
     cmake-args: -DCONFIG_ZMK_STUDIO=y
-    artifact-name: willis-studio
+    artifact-name: willis_studio
